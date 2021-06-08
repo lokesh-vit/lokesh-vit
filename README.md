@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokesh-vit
+- 👋 Hi, I’m Lokesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java
 - 📫 Reach me at lokeshcena12@gmail.com
